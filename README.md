@@ -1,16 +1,15 @@
-### Hi there! This is Me... 👋
+## Responsive Portfolio Website ✨
 
-<!--
-**Aayush-Verma/Aayush-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ayush portfolio Website
+Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
+Website contains: 
+- Header 
+- Home
+- About
+- Skills
+- Qualification
+- Services
+- Portfolio
+- Contact
+- Footer 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
